@@ -16,6 +16,17 @@
     { "id": "mtf-square-giftcard","project": "Farm", "added": "2026-09-17", "text": "Decide: retire the Square gift card product now that the printed cards exist", "link": "https://moontreefarm.com/wp-admin/post.php?post=971&action=edit" },
     { "id": "mtf-gift-test",     "project": "Farm",  "added": "2026-09-17", "text": "Print a batch of two gift cards, activate one by scanning it, and buy something with it", "link": "https://moontreefarm.com/owner/#mtf-gift" },
     { "id": "mtf-derek-account", "project": "MTME",  "added": "2026-09-17", "text": "Give Derek a WordPress account and the Director flag - nothing on /director/ has ever been used by a real Director", "link": "https://moontreefarm.com/wp-admin/user-new.php" },
-    { "id": "mtf-two-esign",     "project": "Farm",  "added": "2026-09-05", "text": "Decide: Moon Tree Farm's own document signing and Herbie do the same job - pick one", "link": "" }
+    { "id": "mtf-two-esign",     "project": "Farm",  "added": "2026-09-05", "text": "Decide: Moon Tree Farm's own document signing and Herbie do the same job - pick one", "link": "" },
+    { "id": "abp-session-list",   "project": "Art Biz", "added": "2026-09-18", "text": "Confirm the real intro-session list, dates and times with Dan, Susan and Debra - the flyer dates are placeholders and the site waits on this", "link": "https://artbizproject.com/wp-admin/tools.php?page=abp-intro-sessions" },
+    { "id": "abp-team-photo",     "project": "Art Biz", "added": "2026-09-18", "text": "Get a real photo of the four of you for page 7 of the pitch book - the generated one reads as the founding team", "link": "" },
+    { "id": "abp-brief-matthew",  "project": "Art Biz", "added": "2026-09-18", "text": "Send Matthew the structure brief for the JV agreement, plus the franchise-law questions from August", "link": "" },
+    { "id": "abp-workbook1-redpen","project": "Art Biz", "added": "2026-09-18", "text": "Red-pen Workbook 1 - the 24 writing nuggets and 9 opener lines - before Workbooks 2 to 4 are built the same way", "link": "" },
+    { "id": "abp-seat-test",      "project": "Art Biz", "added": "2026-09-18", "text": "Buy a $1 test seat in a workshop - proves checkout, fulfillment, the attendee emails and the revenue ledger end to end", "link": "https://artbizproject.com/workshop-series/" },
+    { "id": "abp-meeting-time",   "project": "Art Biz", "added": "2026-09-18", "text": "Settle the weekly meeting day - Tuesday or Thursday at 4 so Debra can attend; Dan asked, Debra has to answer", "link": "" },
+    { "id": "abp-output-engine",  "project": "Art Biz", "added": "2026-09-18", "text": "Decide: green-light the Portfolio Suite generator (AI-written, regenerate on changed entries) - the last unbuilt thing a paying customer sees", "link": "" },
+    { "id": "abp-nudge-emails",   "project": "Art Biz", "added": "2026-09-18", "text": "Decide: switch on the three student nudge emails (begin, idle, area done) in Tools - Email Library, or leave them off", "link": "https://artbizproject.com/wp-admin/tools.php?page=abp-email-library" },
+    { "id": "abp-applications",   "project": "Art Biz", "added": "2026-09-18", "text": "Decide when instructor and franchise applications open - both forms show a hold notice until then", "link": "https://artbizproject.com/workshop-series/?tab=instructor" },
+    { "id": "abp-platform-price", "project": "Art Biz", "added": "2026-09-18", "text": "Decide: keep platform access at $27 or raise it - flagged in the critical review as signalling cheap", "link": "" }
+
   ]
 }
