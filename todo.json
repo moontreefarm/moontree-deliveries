@@ -38,6 +38,5 @@
     { "id": "mnv-cron-output", "project": "MyNextVote", "added": "2026-09-18", "text": "Check hPanel > Cron Jobs > View Output on the drip (every 15 min) and weekly (Monday) jobs - proves both actually run; crontab does not show them", "link": "https://hpanel.hostinger.com" },
     { "id": "mnv-ad-percentages", "project": "MyNextVote", "added": "2026-09-18", "text": "Decide: hide poll-ad percentages until an ad has about 20 answers - the first person to answer sees 100/0/0, which reads as rigged", "link": "" },
     { "id": "mnv-privacy-policy", "project": "MyNextVote", "added": "2026-09-18", "text": "Approve a privacy policy update - the site now records location on ad answers, ad clicks and guest votes and the policy does not say so", "link": "https://mynextvote.com/privacy-policy.php" },
-    { "id": "mnv-tertius-test-tap", "project": "MyNextVote", "added": "2026-09-18", "text": "Decide: clear the one test answer on the Tertius ad (Claude's verification tap) so Ad Insights starts clean", "link": "https://mynextvote.com/admin/house_ad_insights.php" }
   ]
 }
