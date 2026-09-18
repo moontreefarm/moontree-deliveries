@@ -1,7 +1,6 @@
 {
   "updated": "2026-09-18",
   "items": [
-    { "id": "mtf-fb-portfolio", "project": "Farm", "added": "2026-09-05", "text": "Move the Moon Tree Farm Facebook page into the Business Portfolio - until then the farm cannot be advertised", "link": "https://business.facebook.com/settings/pages" },
     { "id": "mtf-sitekit", "project": "Farm", "added": "2026-09-05", "text": "Reconnect Site Kit - it is warning the site URL changed", "link": "https://moontreefarm.com/wp-admin/admin.php?page=googlesitekit-settings" },
     { "id": "mtf-your-turn", "project": "Farm", "added": "2026-09-12", "text": "Type in a Your Turn box on any academy module and wait three seconds - proves response-saving end to end", "link": "https://moontreefarm.com/academy/" },
     { "id": "mtf-old-covers", "project": "Farm", "added": "2026-09-12", "text": "Delete the six old course covers under 2026/06 in the Media Library - nothing points at them", "link": "https://moontreefarm.com/wp-admin/upload.php?s=institute" },
