@@ -36,6 +36,7 @@
     { "id": "gt-demo-reset", "project": "Grand Testimony", "added": "2026-09-18", "text": "Decide: build a demo reset? Today a visitor cannot restart the demo walkthrough without clearing their browser storage", "link": "https://demo.grandtestimony.com/" },
     { "id": "gt-patchstack", "project": "Grand Testimony", "added": "2026-09-18", "text": "Decide: start the Patchstack security trial that was deferred, or drop it", "link": "" },
     { "id": "mnv-ad-percentages", "project": "MyNextVote", "added": "2026-09-18", "text": "Decide: hide poll-ad percentages until an ad has about 20 answers - the first person to answer sees 100/0/0, which reads as rigged", "link": "" },
-    { "id": "mnv-privacy-policy", "project": "MyNextVote", "added": "2026-09-18", "text": "Approve a privacy policy update - the site now records location on ad answers, ad clicks and guest votes and the policy does not say so", "link": "https://mynextvote.com/privacy-policy.php" }
+    { "id": "mnv-privacy-policy", "project": "MyNextVote", "added": "2026-09-18", "text": "Approve a privacy policy update - the site now records location on ad answers, ad clicks and guest votes and the policy does not say so", "link": "https://mynextvote.com/privacy-policy.php" },
+    { "id": "mnv-weekly-cron-monday", "project": "MyNextVote", "added": "2026-09-18", "text": "Monday Sept 21 or after: hPanel > Cron Jobs > View Output on the weekly job (5 0 * * 1) - it now prints a line; ok means the leaderboard cron is proven, FAILED means tell Claude", "link": "https://hpanel.hostinger.com" }
   ]
 }
