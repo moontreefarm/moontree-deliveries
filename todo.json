@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "items": [
     { "id": "mtf-archived-lessons", "project": "Farm", "added": "2026-09-12", "text": "Decide: delete the 26 archived first-draft lessons? Until then the module list reads 15 of 21", "link": "" },
     { "id": "mtf-lab-audience", "project": "Farm", "added": "2026-09-12", "text": "Decide: who is the Lab for - homeschool families, adults, or both? Changes the nine adult-only flags", "link": "https://moontreefarm.com/academy/?school=lab" },
@@ -17,6 +17,9 @@
     { "id": "abp-meeting-time", "project": "Art Biz", "added": "2026-09-18", "text": "Settle the weekly meeting day - Tuesday or Thursday at 4 so Debra can attend; Dan asked, Debra has to answer", "link": "" },
     { "id": "abp-platform-price", "project": "Art Biz", "added": "2026-09-18", "text": "Decide: keep platform access at $27 or raise it - flagged in the critical review as signalling cheap", "link": "" },
     { "id": "abp-piece-log", "project": "Art Biz", "added": "2026-09-18", "text": "Waiting on Jeremy: does the Piece Log proposal match his build-log idea, and may the Kraken be the first log", "link": "" },
+    { "id": "abp-manual-read", "project": "Art Biz", "added": "2026-09-19", "text": "Read Draft 3 of the Certified Instructor Manual - chapters 4-12 rewritten in the Chapter 1-3 form, nine review PDFs in OneDrive Manual. Say which chapters pass and what to change", "link": "" },
+    { "id": "abp-manual-ch1-3", "project": "Art Biz", "added": "2026-09-19", "text": "Decide: cut chapters 1-3 of the manual the same way (161 pages, a third to a half is retold backstory) - or leave them", "link": "" },
+    { "id": "abp-manual-credits", "project": "Art Biz", "added": "2026-09-19", "text": "George Farrah and Oren Helbok are credited as Founding Certified Trainers in the manual - chase a yes or take them off before it goes wider", "link": "" },
     { "id": "lrk-telnyx-setup", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Texting: open the club's Telnyx account, buy one local number, complete 10DLC brand and campaign registration, then hand over the four keys for wp-config.php", "link": "https://telnyx.com/" },
     { "id": "lrk-sms-consent", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Texting: get members to tick 'Text me club announcements' on My Profile, or have the secretary record consent on the Roster screen - nobody can be texted until then", "link": "https://darkcyan-trout-579700.hostingersite.com/wp-admin/admin.php?page=lrk-roster" },
     { "id": "lrk-golf-details", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Golf tournament: give me the real date, course and entry price - the product on the Events page is a placeholder and the old site says the tournament is real", "link": "https://darkcyan-trout-579700.hostingersite.com/wp-admin/edit.php?post_type=product" },
