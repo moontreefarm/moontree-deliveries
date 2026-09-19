@@ -1,7 +1,6 @@
 {
   "updated": "2026-09-18",
   "items": [
-    { "id": "mtf-old-covers", "project": "Farm", "added": "2026-09-12", "text": "Delete the six old course covers under 2026/06 in the Media Library - nothing points at them", "link": "https://moontreefarm.com/wp-admin/upload.php?s=institute" },
     { "id": "mtf-nrcs-link", "project": "Farm", "added": "2026-09-12", "text": "Click the NRCS grazing link in the academy resources - machines are blocked from it, a person is not", "link": "https://moontreefarm.com/wp-admin/tools.php?page=mta-link-check" },
     { "id": "mtf-archived-lessons", "project": "Farm", "added": "2026-09-12", "text": "Decide: delete the 26 archived first-draft lessons? Until then the module list reads 15 of 21", "link": "" },
     { "id": "mtf-lab-audience", "project": "Farm", "added": "2026-09-12", "text": "Decide: who is the Lab for - homeschool families, adults, or both? Changes the nine adult-only flags", "link": "https://moontreefarm.com/academy/?school=lab" },
