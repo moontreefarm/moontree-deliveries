@@ -1,4 +1,4 @@
-{
+﻿{
   "updated": "2026-09-20",
   "items": [
     { "id": "mtf-archived-lessons", "project": "Farm", "added": "2026-09-12", "text": "Decide: delete the 26 archived first-draft lessons? Until then the module list reads 15 of 21", "link": "" },
@@ -26,8 +26,6 @@
     { "id": "lrk-admin-lockout", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Give the go to lock officers and the treasurer out of wp-admin - The Office on the front end becomes their only door", "link": "" },
     { "id": "lrk-test-user", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Delete the test user lrk-rc1 in Users - one click I cannot do from here", "link": "https://darkcyan-trout-579700.hostingersite.com/wp-admin/users.php?s=lrk-rc1" },
     { "id": "lrk-square", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Payments: club opens a Square account under its own EIN, the treasurer connects it in WooCommerce > Square, then test one banquet ticket and one refund", "link": "https://darkcyan-trout-579700.hostingersite.com/wp-admin/admin.php?page=woocommerce-square-onboarding" },
-    { "id": "lrk-domain-epp", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Domain: when Phil sends the EPP code for lakeregionkiwanis.org, forward it and I start the transfer to Hostinger the same day (Keith's request went out Sept 16, due Sept 30)", "link": "" },
-    { "id": "lrk-go-live", "project": "Lake Region Kiwanis", "added": "2026-09-18", "text": "Go-live by end of October: DNS to Hostinger, turn off 'Store coming soon', old site down - after the domain transfer and Square are done", "link": "https://darkcyan-trout-579700.hostingersite.com/wp-admin/admin.php?page=wc-settings&tab=site-visibility" },
     { "id": "gt-info-inbox", "project": "Grand Testimony", "added": "2026-09-18", "text": "Make sure someone reads info@grandtestimony.com - the Gift-Giver's Guide tells buyers to reply to their receipt for help, and all site mail goes out from that address", "link": "" },
     { "id": "gt-gazette-email", "project": "Grand Testimony", "added": "2026-09-18", "text": "Decide: rewrite the 50%-off campaign email - its first line is a legal disclaimer, and 0 of 23 Gazette signups went on to make an account", "link": "" },
     { "id": "gt-guide-page-links", "project": "Grand Testimony", "added": "2026-09-18", "text": "Decide: put the Gift-Giver's Guide link beside Give Someone Their Story for $5 on the home and Legacy Book pages - page editor, /?gt_guide=giver", "link": "https://grandtestimony.com/wp-admin/edit.php?post_type=page" },
