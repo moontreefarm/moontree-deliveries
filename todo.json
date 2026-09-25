@@ -32,7 +32,6 @@
     { "id": "gt-first-load-error", "project": "Grand Testimony", "added": "2026-09-18", "text": "Next time grandtestimony.com fails on the first try at home, note the ERR_ code at the bottom of the page and tell Claude - the site is fast from the server, so it is the path from your house", "link": "" },
     { "id": "gt-demo-reset", "project": "Grand Testimony", "added": "2026-09-18", "text": "Decide: build a demo reset? Today a visitor cannot restart the demo walkthrough without clearing their browser storage", "link": "https://demo.grandtestimony.com/" },
     { "id": "gt-patchstack", "project": "Grand Testimony", "added": "2026-09-18", "text": "Decide: start the Patchstack security trial that was deferred, or drop it", "link": "" },
-    { "id": "mnv-weekly-cron-monday", "project": "MyNextVote", "added": "2026-09-18", "text": "Monday Sept 21 or after: hPanel > Cron Jobs > View Output on the weekly job (5 0 * * 1) - it now prints a line; ok means the leaderboard cron is proven, FAILED means tell Claude", "link": "https://hpanel.hostinger.com" },
     { "id": "lrk-foundation-decisions", "project": "Lake Region Kiwanis", "added": "2026-09-20", "text": "Foundation (501c3): confirm the three initial directors (recommend Keith, Patricia, Dustin), the registered agent with a Florida street address (recommend Dustin), and Oct-Sep fiscal year - then I draft the Sunbiz articles, bylaws and Form 1023-EZ", "link": "" }
   ]
 }
