@@ -1,6 +1,7 @@
 {
   "updated": "2026-09-26",
   "items": [
+    { "id": "mtme-repeat-posts", "project": "MTME", "added": "2026-09-26", "text": "36 scheduled posts are only 4 different posts - Grand Testimony repeats one 11 times to February, Herbie two of them 9 and 10 times, Teen Tab one 6 times. Decide: thin them out or let them run", "link": "https://moontreefarm.com/owner/" },
     { "id": "mtf-myaccount-page", "project": "Farm", "added": "2026-09-26", "text": "WooCommerce - Settings - Advanced: change My account page to Account, then re-save Permalinks. Password reset is broken until this is done", "link": "https://moontreefarm.com/wp-admin/admin.php?page=wc-settings&tab=advanced" },
     { "id": "mtf-content-monday", "project": "Farm", "added": "2026-09-26", "text": "Content Monday: paste the snippet update, send yourself a test, then switch it on", "link": "https://moontreefarm.com/wp-admin/admin.php?page=mtf-content-monday" },
     { "id": "mtme-fb-insights", "project": "MTME", "added": "2026-09-26", "text": "Decide: add read_insights and pages_read_user_content to the Facebook token so post performance stops reading zero - then the Director gets a How posts are doing panel", "link": "" },
